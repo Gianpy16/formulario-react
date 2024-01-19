@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f94fdd9d.css",
-    "main.js": "/static/js/main.9aa1d292.js",
+    "main.css": "/static/css/main.3a40fea4.css",
+    "main.js": "/static/js/main.6bf651d6.js",
+    "static/js/498.1cc30b32.chunk.js": "/static/js/498.1cc30b32.chunk.js",
+    "static/js/703.25713c0f.chunk.js": "/static/js/703.25713c0f.chunk.js",
+    "static/js/379.d521b027.chunk.js": "/static/js/379.d521b027.chunk.js",
     "static/js/787.6809a182.chunk.js": "/static/js/787.6809a182.chunk.js",
     "static/media/Mooli-Regular.ttf": "/static/media/Mooli-Regular.1180a5b80df79ab5d71f.ttf",
     "static/media/AppLogo.png": "/static/media/AppLogo.8f97058d647659f3f03a.png",
+    "static/media/trash.ogg": "/static/media/trash.0688c0a8fe1e409a8f34.ogg",
     "index.html": "/index.html",
-    "main.f94fdd9d.css.map": "/static/css/main.f94fdd9d.css.map",
-    "main.9aa1d292.js.map": "/static/js/main.9aa1d292.js.map",
+    "main.3a40fea4.css.map": "/static/css/main.3a40fea4.css.map",
+    "main.6bf651d6.js.map": "/static/js/main.6bf651d6.js.map",
+    "498.1cc30b32.chunk.js.map": "/static/js/498.1cc30b32.chunk.js.map",
+    "703.25713c0f.chunk.js.map": "/static/js/703.25713c0f.chunk.js.map",
+    "379.d521b027.chunk.js.map": "/static/js/379.d521b027.chunk.js.map",
     "787.6809a182.chunk.js.map": "/static/js/787.6809a182.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f94fdd9d.css",
-    "static/js/main.9aa1d292.js"
+    "static/css/main.3a40fea4.css",
+    "static/js/main.6bf651d6.js"
   ]
 }

@@ -1,0 +1,26 @@
+{
+	"Name": "Documento1",
+	"Structure": [
+		{ "Id":"title", "Title": "Titolo del documento", "Icon": "MdLabel" },
+		[
+			{ "Id": "sender", "Title": "Mittente", "Icon": "MdOutbox" },
+			{ "Id": "receiver", "Title": "Ricevente", "Icon": "MdMoveToInbox" }
+		],
+		{ "Id": "main", "Title": "Oggetto", "Icon": "MdOutlineEmojiObjects", "DefaultValue": "Oggetto: (...)" },
+		{ "Id": "sections", "Title": "Sezioni", "Icon": "MdAllInbox" },
+		[
+			{ "Id": "sign-left", "Title": "Firma Sinistra", "Icon": "MdAssignment" },
+			{ "Id": "sign-right", "Title": "Firma Destra", "Icon": "MdAssignment" }
+		]
+	],
+	"ExportPages": [
+		{ "Align": "center", "Text": [{ "Id": "title", "Bold": true, "FontSize": 56 }] },
+		{ "Align": "left", "Text": [{ "Id": "sender", "Bold": true, "FontSize": 24 }] },
+		{ "Align": "right", "Text": [{ "Id": "receiver", "Bold": true, "FontSize": 24 }] },
+		
+		{ "break-on-something-before": true, "align": "left", "Text": [{ "Id": "main", "FontSize": 24 }] },
+		
+		{ "break-on-something-before": true, "align": "left", "Text": [{ "Id": "sign-left", "Bold": true, "FontSize": 24 }] },
+		{ "Align": "right", "Text": [{ "Id": "sign-right", "Bold": true, "FontSize": 24 }] }
+	]
+}
